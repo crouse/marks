@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/cdb.png</file>
+        <file>files/init.png</file>
+    </qresource>
+</RCC>
